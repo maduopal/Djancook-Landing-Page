@@ -1,71 +1,71 @@
 body {
-margin: 0;
-font-family: Arial, sans-serif;
-background: #fff;
-color: #333;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fff;
+  color: #333;
 }
 header {
-background: #157347;
-color: #fff;
-padding: 15px 0;
+  background: #157347;
+  color: #fff;
+  padding: 15px 0;
 }
 header .container {
-display: flex;
-justify-content: space-between;
-align-items: center;
-width: 90%;
-margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  margin: auto;
 }
 header nav a {
-margin: 0 10px;
-color: #fff;
-text-decoration: none;
+  margin: 0 10px;
+  color: #fff;
+  text-decoration: none;
 }
 .hero {
-background: #e6f4ea;
-text-align: center;
-padding: 60px 20px;
+  background: #e6f4ea;
+  text-align: center;
+  padding: 60px 20px;
 }
 .hero h2 {
-color: #14532d;
+  color: #14532d;
 }
 button {
-background: #157347;
-color: #fff;
-border: none;
-padding: 10px 20px;
-border-radius: 20px;
-cursor: pointer;
+  background: #157347;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
 }
 button:hover {
-background: #0f5132;
+  background: #0f5132;
 }
 .container {
-width: 90%;
-margin: auto;
-padding: 40px 0;
+  width: 90%;
+  margin: auto;
+  padding: 40px 0;
 }
 .grid {
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
 }
 .card {
-border: 1px solid #cce3d0;
-padding: 20px;
-text-align: center;
-border-radius: 10px;
-background: #fff;
-box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  border: 1px solid #cce3d0;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 .about, .contact {
-background: #f8faf9;
-text-align: center;
-padding: 60px 20px;
+  background: #f8faf9;
+  text-align: center;
+  padding: 60px 20px;
 }
 footer {
-background: #157347;
-color: #fff;
-text-align: center;
-padding: 15px 0;
+  background: #157347;
+  color: #fff;
+  text-align: center;
+  padding: 15px 0;
 }
